@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 # tldr client by Ray Lee, http://github.com/raylee/tldr
 # tldr-sh-client version: 2021-12-18  spec: v1.5
 
@@ -352,6 +352,45 @@ term() {
 			magenta)      tput setaf 5 || tput AF 5 ;;
 			cyan)         tput setaf 6 || tput AF 6 ;;
 			white)        tput setaf 7 || tput AF 7 ;;
+			orange)       tput setaf 208 || tput AF 208 ;;
+			pink)         tput setaf 218 || tput AF 218 ;;
+			hotpink)      tput setaf 200 || tput AF 200 ;;
+			purple)       tput setaf 129 || tput AF 129 ;;
+			teal)         tput setaf 30 || tput AF 30 ;;
+			aqua)         tput setaf 50 || tput AF 50 ;;
+			mint)         tput setaf 49 || tput AF 49 ;;
+			maroon)       tput setaf 125 || tput AF 125 ;;
+			salmon)       tput setaf 209 || tput AF 209 ;;
+			brown)        tput setaf 124 || tput AF 124 ;;
+			peach)        tput setaf 223 || tput AF 223 ;;
+			lavendar)     tput setaf 189 || tput AF 189 ;;
+			sky)          tput setaf 117 || tput AF 117 ;;
+			turquoise)    tput setaf 44 || tput AF 44 ;;
+			sea)          tput setaf 29 || tput AF 29 ;;
+			olive)        tput setaf 64 || tput AF 64 ;;
+			lime)         tput setaf 46 || tput AF 46 ;;
+			khaki)        tput setaf 222 || tput AF 222 ;;
+			gold)         tput setaf 220 || tput AF 220 ;;
+			chocolate)    tput setaf 166 || tput AF 166 ;;
+			tan)          tput setaf 180 || tput AF 180 ;;
+			beige)        tput setaf 230 || tput AF 230 ;;
+			violet)       tput setaf 213 || tput AF 213 ;;
+			orchid)       tput setaf 170 || tput AF 170 ;;
+			slate)        tput setaf 99 || tput AF 99 ;;
+			royal)        tput setaf 33 || tput AF 33 ;;
+			chartreuse)   tput setaf 118 || tput AF 118 ;;
+			crimson)      tput setaf 160 || tput AF 160 ;;
+			mauve)        tput setaf 183 || tput AF 183 ;;
+			lagoon)       tput setaf 74 || tput AF 74 ;;
+			coffee)       tput setaf 58 || tput AF 58 ;;
+			sand)         tput setaf 180 || tput AF 180 ;;
+			tawny)        tput setaf 166 || tput AF 166 ;;
+			ochre)        tput setaf 172 || tput AF 172 ;;
+			plum)         tput setaf 90 || tput AF 90 ;;
+			forest)       tput setaf 22 || tput AF 22 ;;
+			canary)       tput setaf 228 || tput AF 228 ;;
+			ltgrey)       tput setaf 250 || tput AF 250 ;;
+			grey)         tput setaf 244 || tput AF 244 ;;
 			onblue)       tput setab 4 || tput AB 4 ;;
 			ongrey)       tput setab 7 || tput AB 7 ;;
 
