@@ -371,7 +371,7 @@ term() {
 			lime)         tput setaf 46 || tput AF 46 ;;
 			khaki)        tput setaf 222 || tput AF 222 ;;
 			gold)         tput setaf 220 || tput AF 220 ;;
-			chocolate)    tput setaf 166 || tput AF 166 ;;
+			chocolate)    tput setaf 166 || tput AF 88 ;;
 			tan)          tput setaf 180 || tput AF 180 ;;
 			beige)        tput setaf 230 || tput AF 230 ;;
 			violet)       tput setaf 213 || tput AF 213 ;;
@@ -383,7 +383,7 @@ term() {
 			mauve)        tput setaf 183 || tput AF 183 ;;
 			lagoon)       tput setaf 74 || tput AF 74 ;;
 			coffee)       tput setaf 58 || tput AF 58 ;;
-			sand)         tput setaf 180 || tput AF 180 ;;
+			sand)         tput setaf 180 || tput AF 144 ;;
 			tawny)        tput setaf 166 || tput AF 166 ;;
 			ochre)        tput setaf 172 || tput AF 172 ;;
 			plum)         tput setaf 90 || tput AF 90 ;;
