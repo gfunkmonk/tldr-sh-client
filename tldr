@@ -370,7 +370,9 @@ term() {
 			sky)          tput setaf 117 || tput AF 117 ;;
 			turquoise)    tput setaf 44 || tput AF 44 ;;
 			sea)          tput setaf 29 || tput AF 29 ;;
+			lightsea)          tput setaf 115 || tput AF 115 ;;
 			olive)        tput setaf 64 || tput AF 64 ;;
+			lightolive)        tput setaf 112 || tput AF 112 ;;
 			lime)         tput setaf 46 || tput AF 46 ;;
 			khaki)        tput setaf 143 || tput AF 143 ;;
 			lightkhaki)   tput setaf 186 || tput AF 186 ;;
@@ -382,7 +384,9 @@ term() {
 			lightviolet)  tput setaf 183 || tput AF 183 ;;
 			orchid)       tput setaf 170 || tput AF 170 ;;
 			slate)        tput setaf 66 || tput AF 66 ;;
-			royal)        tput setaf 33 || tput AF 33 ;;
+			lightslate)   tput setaf 116 || tput AF 116 ;;
+			royal)        tput setaf 26 || tput AF 26 ;;
+			lightroyal)        tput setaf 33 || tput AF 33 ;;
 			chartreuse)   tput setaf 118 || tput AF 118 ;;
 			crimson)      tput setaf 160 || tput AF 160 ;;
 			mauve)        tput setaf 96 || tput AF 96 ;;
