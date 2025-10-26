@@ -353,7 +353,9 @@ term() {
 			cyan)         tput setaf 6 || tput AF 6 ;;
 			white)        tput setaf 7 || tput AF 7 ;;
 			orange)       tput setaf 208 || tput AF 208 ;;
+			lightorange)  tput setaf 214 || tput AF 214 ;;
 			pink)         tput setaf 218 || tput AF 218 ;;
+			lightpink)    tput setaf 207 || tput AF 207 ;;
 			hotpink)      tput setaf 200 || tput AF 200 ;;
 			purple)       tput setaf 129 || tput AF 129 ;;
 			teal)         tput setaf 30 || tput AF 30 ;;
@@ -389,8 +391,8 @@ term() {
 			plum)         tput setaf 90 || tput AF 90 ;;
 			forest)       tput setaf 22 || tput AF 22 ;;
 			canary)       tput setaf 228 || tput AF 228 ;;
-			ltgrey)       tput setaf 250 || tput AF 250 ;;
-			grey)         tput setaf 240 || tput AF 240 ;;
+			lightgray)    tput setaf 250 || tput AF 250 ;;
+			darkgray)     tput setaf 240 || tput AF 240 ;;
 			onblue)       tput setab 4 || tput AB 4 ;;
 			ongrey)       tput setab 7 || tput AB 7 ;;
 
