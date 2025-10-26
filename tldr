@@ -363,6 +363,7 @@ term() {
 			mint)         tput setaf 49 || tput AF 49 ;;
 			maroon)       tput setaf 125 || tput AF 125 ;;
 			salmon)       tput setaf 209 || tput AF 209 ;;
+			coral)        tput setaf 210 || tput AF 210 ;;
 			brown)        tput setaf 94 || tput AF 94 ;;
 			peach)        tput setaf 216 || tput AF 216 ;;
 			lavendar)     tput setaf 104 || tput AF 104 ;;
@@ -372,11 +373,13 @@ term() {
 			olive)        tput setaf 64 || tput AF 64 ;;
 			lime)         tput setaf 46 || tput AF 46 ;;
 			khaki)        tput setaf 143 || tput AF 143 ;;
+			lightkhaki)   tput setaf 186 || tput AF 186 ;;
 			gold)         tput setaf 220 || tput AF 220 ;;
 			chocolate)    tput setaf 52 || tput AF 52 ;;
 			tan)          tput setaf 180 || tput AF 180 ;;
 			beige)        tput setaf 138 || tput AF 138 ;;
-			violet)       tput setaf 213 || tput AF 213 ;;
+			violet)       tput setaf 93 || tput AF 93 ;;
+			lightviolet)  tput setaf 183 || tput AF 183 ;;
 			orchid)       tput setaf 170 || tput AF 170 ;;
 			slate)        tput setaf 66 || tput AF 66 ;;
 			royal)        tput setaf 33 || tput AF 33 ;;
@@ -393,6 +396,9 @@ term() {
 			canary)       tput setaf 228 || tput AF 228 ;;
 			camel)		  tput setaf 137 || tput AF 137 ;;
 			cream)		  tput setaf 230 || tput AF 230 ;;
+			steel)		  tput setaf 31 || tput AF 31 ;;
+			navajo)		  tput setaf 223 || tput AF 223 ;;
+			goldenrod)	  tput setaf 178 || tput AF 178 ;;
 			lightgray)    tput setaf 250 || tput AF 250 ;;
 			darkgray)     tput setaf 240 || tput AF 240 ;;
 			onblue)       tput setab 4 || tput AB 4 ;;
