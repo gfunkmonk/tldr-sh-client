@@ -392,6 +392,7 @@ term() {
 			forest)       tput setaf 22 || tput AF 22 ;;
 			canary)       tput setaf 228 || tput AF 228 ;;
 			camel)		  tput setaf 137 || tput AF 137 ;;
+			cream)		  tput setaf 230 || tput AF 230 ;;
 			lightgray)    tput setaf 250 || tput AF 250 ;;
 			darkgray)     tput setaf 240 || tput AF 240 ;;
 			onblue)       tput setab 4 || tput AB 4 ;;
