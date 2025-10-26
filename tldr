@@ -354,9 +354,9 @@ term() {
 			white)        tput setaf 7 || tput AF 7 ;;
 			orange)       tput setaf 208 || tput AF 208 ;;
 			lightorange)  tput setaf 214 || tput AF 214 ;;
-			pink)         tput setaf 218 || tput AF 218 ;;
-			lightpink)    tput setaf 207 || tput AF 207 ;;
-			hotpink)      tput setaf 200 || tput AF 200 ;;
+			pink)         tput setaf 200 || tput AF 200 ;;
+			lightpink)    tput setaf 218 || tput AF 218 ;;
+			hotpink)      tput setaf 205 || tput AF 205 ;;
 			purple)       tput setaf 129 || tput AF 129 ;;
 			teal)         tput setaf 30 || tput AF 30 ;;
 			aqua)         tput setaf 50 || tput AF 50 ;;
